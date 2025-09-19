@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
 1. 🔭 I'm currently working on<br>ChatGPT Clone<br>AI/ML-based Projects<br>Web Development<br><br><br>2. 👯 I'm looking to collaborate on<br>Open Source Projects<br>Full-stack Web Development<br>AI/ML Applications<br><br>3. 🤝 I'm looking for help with<br>Scaling Web Applications<br>Optimizing AI Models<br><br>4. 🌱 I'm currently learning<br>Next.js and Tailwind CSS<br>Advanced AI Prompt Engineering<br><br>5. 💬 Ask me about<br>React, Node.js, Firebase<br>AI, Chatbots, LLMs<br><br>6. ⚡ Fun fact<br>I can turn coffee into code!
 
 
