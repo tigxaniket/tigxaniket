@@ -2,6 +2,7 @@
 
 1. 🔭 I'm currently working on<br>ChatGPT Clone<br>AI/ML-based Projects<br>Web Development<br><br><br>2. 👯 I'm looking to collaborate on<br>Open Source Projects<br>Full-stack Web Development<br>AI/ML Applications<br><br>3. 🤝 I'm looking for help with<br>Scaling Web Applications<br>Optimizing AI Models<br><br>4. 🌱 I'm currently learning<br>Next.js and Tailwind CSS<br>Advanced AI Prompt Engineering<br><br>5. 💬 Ask me about<br>React, Node.js, Firebase<br>AI, Chatbots, LLMs<br><br>6. ⚡ Fun fact<br>I can turn coffee into code!
 
+https://git.io/typing-svg
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wakeup.aniket) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-mahadik-84aa10221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/oyeitsaniket) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tigxaniket@gmail.com) 
